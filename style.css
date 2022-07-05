@@ -1,0 +1,64 @@
+
+
+.barreetat{
+margin-top: 50px;
+
+
+}
+
+.image{
+
+    display: flex ;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    width: 450px;
+}
+img {
+    width: 200px
+}
+h1{
+
+    font-size: 2.6rem;
+}
+h3{
+
+    font-size: 3rem;
+}
+.mainhead{background-color: rgb(38, 102, 67);
+color: aliceblue;}
+a{
+    color: aliceblue;
+    text-decoration: none;
+}
+nav{
+    font-family: 'Finlandica', sans-serif;
+    min-height: 10vh;
+    display: flex;
+}
+nav ul{display: flex;
+flex: 1 1 40rem;
+justify-content: space-around;}
+#logo{
+    flex: 1 1 40rem;
+
+}
+main{ font-family: 'Finlandica', sans-serif;
+background-color: rgb(219, 219, 219);
+color: rgb(3, 36, 11);
+}
+.pdp{margin-left:80%;}
+.dk{display: flex; }
+.vid{   display: flex ;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    width:600px;
+
+
+}
+
+footer{
+background-color: rgb(2, 2, 2)  ;
+color: rgb(255, 255, 255);
+text-align :right;}
